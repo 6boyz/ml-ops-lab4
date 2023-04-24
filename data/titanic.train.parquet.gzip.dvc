@@ -1,0 +1,4 @@
+outs:
+- md5: b3c5ea9505412f32b1cd0e9d135a4b7a
+  size: 42930
+  path: titanic.train.parquet.gzip
