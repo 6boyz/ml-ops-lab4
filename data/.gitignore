@@ -1,2 +1,4 @@
 /titanic.test.parquet.gzip
 /titanic.train.parquet.gzip
+/titanic.short.train.parquet.gzip
+/titanic.short.test.parquet.gzip
