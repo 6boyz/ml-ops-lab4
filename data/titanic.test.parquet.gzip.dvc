@@ -1,4 +1,4 @@
 outs:
-- md5: 4ee20d34f18d3f63cda38bbc8cbd8826
-  size: 10460
+- md5: 12a6303c136042befb4ec140a1c87215
+  size: 7705
   path: titanic.test.parquet.gzip
