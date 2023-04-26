@@ -1,4 +1,0 @@
-outs:
-- md5: 27b08f7c796aaf93a777e90f7754a0c1
-  size: 3723
-  path: titanic.short.test.parquet.gzip
